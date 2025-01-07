@@ -28,21 +28,43 @@
 | Nome do Evento | Data do Evento | Local | 
 |----------------|----------------|-------|
 | -             | -             | -     | 
-| [CES 2025](https://www.ces.tech) ![presencial] | 07 - 10 | Las Vegas - EUA | 
-| [SANS Cyber Threat Intelligence Summit](https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2025/) ![online]| 27 - 28 | Alexandria - EUA |
+| [CES 2025](https://www.ces.tech) ![presencial] | 07 - 10/01 | Las Vegas - EUA | 
+| [SANS Cyber Threat Intelligence Summit](https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2025/) ![online]| 27 - 28/01 | Alexandria - EUA |
 
 <!-- JANEIRO:END -->
-<!-- FEVEREIRO:START -->
 
+<!-- FEVEREIRO:START -->
 ## Fevereiro
 
 | Nome do Evento | Data do Evento | Local |
 |----------------|----------------|-------|
-| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | ![online] |
-| Security Bytes Fortaleza | 19/02/2025 | Fortaleza, CE | Evento focado em Networking/Happy Hour |
-| [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher |
-| [RISE Finland 2025](https://www.team-cymru.com/rise-finland) | 10/02/2025 a 12/02/2025 | Helsinki, Finlândia | From sim swapping to ransomware OPSEC investigations and state-sponsored hacking workshops, RISE delves into the most cutting-edge topics in cybersecurity. |
+| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | 
+| [Security Bytes Fortaleza]() | 19/02/2025 | Fortaleza, CE |
+| [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE |
+| [RISE Finland 2025](https://www.team-cymru.com/rise-finland) | 10/02/2025 a 12/02/2025 | Helsinki, Finlândia | 
+| [Dia da Internet Segura ]() | 06 - 07/02 | São Paulo - SP |
 <!-- FEVEREIRO:END -->
+
+<!-- MARÇO:START -->
+
+MARÇO
+07-15 - SXSW, Austin
+17-20 - NVIDIA GTC (GPU Technology Conference), San Jose
+17-20 - Adobe Summit, Las Vegas
+19-21 - SecOps Summit, Porto Alegre
+22 - Security BSides, Rio de Janeiro
+28-29 - Gartner Data & Analytics, São Paulo
+
+<!-- MARÇO:END -->
+
+ABRIL
+05-09 - NAB Show, Las Vegas
+07-11 - QCon, San Francisco
+09-11 - Google Cloud Next, Las Vegas ⭐️
+21-23 - FIRST Cyber Threat Intelligence Conference, Berlin ⭐️
+24-26 - CyberTech Global, Tel Aviv ⭐️
+27-30 - Websummit, Rio de Janeiro
+28-01 [mai] - RSA Conference, San Francisco ⭐️
 
 ## Março
 
@@ -127,26 +149,6 @@
 | BHack Conference ![presencial]| 04/12/2025 a 05/12/2025 | Belo Horizonte, MG | -           |
 
 
-
-FEVEREIRO
-06-07 - Dia da Internet Segura, São Paulo
-
-MARÇO
-07-15 - SXSW, Austin
-17-20 - NVIDIA GTC (GPU Technology Conference), San Jose
-17-20 - Adobe Summit, Las Vegas
-19-21 - SecOps Summit, Porto Alegre
-22 - Security BSides, Rio de Janeiro
-28-29 - Gartner Data & Analytics, São Paulo
-
-ABRIL
-05-09 - NAB Show, Las Vegas
-07-11 - QCon, San Francisco
-09-11 - Google Cloud Next, Las Vegas ⭐️
-21-23 - FIRST Cyber Threat Intelligence Conference, Berlin ⭐️
-24-26 - CyberTech Global, Tel Aviv ⭐️
-27-30 - Websummit, Rio de Janeiro
-28-01 [mai] - RSA Conference, San Francisco ⭐️
 
 MAIO
 17-18 - Security BSides, São Paulo
