@@ -17,6 +17,13 @@
 
 <!-- JANEIRO:START -->
 
+## Janeiro
+
+| Nome do Evento | Data do Evento | Local | Tipo de Evento | Link do Evento |
+|----------------|---------------|---------------|-------------|-------------|
+| -             | -             | -     | -           |
+| Confraria Web3  | 07 | Sao Paulo - SP   | Presencial | https://www.meetup.com/confrariaweb3/events/304681266
+
 - 07: [Confraria Web3 - São Paulo](https://www.meetup.com/confrariaweb3/events/304681266) - _São Paulo/SP_ ![presencial]
 - 08: [Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304899359) ![online]
 - 09: [PHPSP Pub](https://www.meetup.com/php-sp/events/300873764) - _São Paulo/SP_ ![presencial]
@@ -131,11 +138,6 @@
 - TBA: [Esquenta CSBC 2025](https://csbc.sbc.org.br/2025/) - _Arapiraca/AL_ ![presencial]
 - TBA: [Hacking na Web Day - Florianópolis](https://linktr.ee/hackingnawebday) - _Florianópolis/SC_ ![presencial]
 <!-- TBA:END -->
-
-## Eventos dos anos anteriores
-
-- [Eventos 2022](https://github.com/Abacatinhos/eventos-tech-brasil/blob/main/arquivo/2022.md)
-- [Eventos 2023](https://github.com/Abacatinhos/eventos-tech-brasil/blob/main/arquivo/2023.md)
 
 <!--LINK DAS BADGES:START-->
 
