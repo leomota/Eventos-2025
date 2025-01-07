@@ -29,9 +29,9 @@
 
 ## Fevereiro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética |
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Tipo do Evento | CTF |
+|----------------|---------------|-------|-------------|-------------|-------------|
+| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética | ![presencial] | ![ok] | 
 | [Hack In Cariri](https://hackincariri.com.br) | 15/02/2025 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF |
 | Security Bytes Fortaleza | 19/02/2025 | Fortaleza, CE | Evento focado em Networking/Happy Hour |
 | [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher |
@@ -42,5 +42,5 @@
 [presencial]: https://img.shields.io/static/v1?label=&message=presencial&color=blue
 [híbrido]: https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=red
 [online]: https://img.shields.io/static/v1?label=&message=online&color=purple
-
+[ok]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SuzXSFVNznH767mLh4-6Jr9o8d8mSBIXtw&s
 <!--LINK DAS BADGES:END-->
