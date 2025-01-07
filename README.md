@@ -18,10 +18,6 @@
 
 ## Janeiro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Evento
-|----------------|---------------|---------------|------------
-| -             | -             | -     | -           |
-| Confraria Web3  | 07 | Sao Paulo - SP   | Presencial | https://www.meetup.com/confrariaweb3/events/304681266
 
 - 07: [Confraria Web3 - São Paulo](https://www.meetup.com/confrariaweb3/events/304681266) - _São Paulo/SP_ ![presencial]
 - 21: [Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310) ![online]
@@ -30,9 +26,9 @@
 
 ## Fevereiro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Tipo do Evento | CTF |
-|----------------|---------------|-------|-------------|-------------|-------------|
-| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética | ![presencial] <img alt="Static Badge" src="https://img.shields.io/badge/CTF-GREEN?style=social"> | ![ok] | 
+| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Tipo do Evento 
+|----------------|---------------|-------|-------------|-------------|
+| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética | ![presencial] <img alt="Static Badge" src="https://img.shields.io/badge/CTF-GREEN?style=social"> | 
 | [Hack In Cariri](https://hackincariri.com.br) | 15/02/2025 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF |
 | Security Bytes Fortaleza | 19/02/2025 | Fortaleza, CE | Evento focado em Networking/Happy Hour |
 | [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher | <img width="30px" src="https://i.ibb.co/bbWdtKP/1680103178404-removebg-preview.png" align="right" /> ![presencial]|
