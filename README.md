@@ -25,17 +25,20 @@
 
 ## Janeiro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| -             | -             | -     | -           |
+| Nome do Evento | Data do Evento | Local | 
+|----------------|----------------|-------|
+| -             | -             | -     | 
+| [CES 2025](https://www.ces.tech) ![presencial] | 07 - 10 | Las Vegas - EUA | 
+| [SANS Cyber Threat Intelligence Summit](https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2025/) ![online]| 27 - 28 | Alexandria - EUA |
+
 <!-- JANEIRO:END -->
+<!-- FEVEREIRO:START -->
 
 ## Fevereiro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
-|----------------|---------------|-------|-------------|
-| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | ![online] <img width="50px" src="https://i.ibb.co/bbWdtKP/1680103178404-removebg-preview.png" |
-| [Hack In Cariri](https://hackincariri.com.br) | 15/02/2025 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF |
+| Nome do Evento | Data do Evento | Local |
+|----------------|----------------|-------|
+| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | ![online] |
 | Security Bytes Fortaleza | 19/02/2025 | Fortaleza, CE | Evento focado em Networking/Happy Hour |
 | [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher |
 | [RISE Finland 2025](https://www.team-cymru.com/rise-finland) | 10/02/2025 a 12/02/2025 | Helsinki, Finlândia | From sim swapping to ransomware OPSEC investigations and state-sponsored hacking workshops, RISE delves into the most cutting-edge topics in cybersecurity. |
@@ -121,7 +124,95 @@
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
-| BHack Conference | 04/12/2025 a 05/12/2025 | Belo Horizonte, MG | -           |
+| BHack Conference ![presencial]| 04/12/2025 a 05/12/2025 | Belo Horizonte, MG | -           |
+
+
+
+FEVEREIRO
+06-07 - Dia da Internet Segura, São Paulo
+
+MARÇO
+07-15 - SXSW, Austin
+17-20 - NVIDIA GTC (GPU Technology Conference), San Jose
+17-20 - Adobe Summit, Las Vegas
+19-21 - SecOps Summit, Porto Alegre
+22 - Security BSides, Rio de Janeiro
+28-29 - Gartner Data & Analytics, São Paulo
+
+ABRIL
+05-09 - NAB Show, Las Vegas
+07-11 - QCon, San Francisco
+09-11 - Google Cloud Next, Las Vegas ⭐️
+21-23 - FIRST Cyber Threat Intelligence Conference, Berlin ⭐️
+24-26 - CyberTech Global, Tel Aviv ⭐️
+27-30 - Websummit, Rio de Janeiro
+28-01 [mai] - RSA Conference, San Francisco ⭐️
+
+MAIO
+17-18 - Security BSides, São Paulo
+19-22 - DELL Technologies / World, Las Vegas
+TBD - CSO Network, São Paulo ⭐️
+TBD - Google I/O
+TBD - You Sh0t The Sheriff 17 (YSTS), São Paulo ⭐️
+
+JUNHO
+03-06 - Identiverse, Las Vegas
+08-12 - Cisco Live!, San Diego
+09-11 - Gartner Security & Risk Mgmt Summit, National Harbor ⭐️
+16-18 - AWS re:Inforce, Philadelphia
+22-27 - 37th FIRST Conference, Copenhagen
+TBD - Apple Worldwide Developers Conference (WWDC25)
+
+JULHO
+28-29 - CERT.BR - 13º Fórum Brasileiro de CSIRTs, São Paulo ⭐️
+30 - CERT.BR - 6º Workshop MISP, São Paulo
+
+AGOSTO
+02-07 - BlackHat USA, Las Vegas ⭐️
+05-06 - Gartner Security & Risk Management Summit, São Paulo ⭐️
+07-10 - Defcon 33, Las Vegas ⭐️
+27-28 - CISO Forum, São Paulo 
+TBD - BSides, Las Vegas
+
+SETEMBRO
+06-07 - Blue Team Conference, Chicago
+12-15 - IBC Show, Amsterdam
+16-18 - Mind The Sec, São Paulo ⭐️
+20-23 - Gartner IT Symposium/Xpo, Orlando ⭐️
+22-24 - Gartner CIO & IT Executive, São Paulo ⭐️
+24-25 - CyberSecurity & CloudExpo Europe, Amsterdam
+30-02 [out] - Futurecom, São Paulo
+TBD - mWISE Conference 2025, Denver
+TBD - CultSec, São Paulo
+TBD - CSA SECtember, Seattle
+TBD - Global Risk Meeting, São Paulo
+
+OUTUBRO
+02-03 - Hacker Halted, Atlanta 
+13-16 - Oracle CloudWorld, Las Vegas
+25-30 - InfoSec World, Lake Buenavista
+27-28 - Cyber Security Summit Brasil
+28-29 - CS4CA - CyberSec For Critical Assets, São Paulo
+29-31 - (ISC)² Security Congress, Nashville
+TBD - Authenticate - The FIDO Conference, Carlsbad
+TBD - Human Risk Management Conference, São Paulo
+
+NOVEMBRO
+03-07 - OWASP Global AppSec, Washington DC
+05-07 - Forrester Security & Risk, Austin
+08 - NullByte Security Conference, Salvador
+10-13 - Websummit, Lisboa
+TBD - ISF World Congress, Orlando
+TBD - Ekoparty, Buenos Aires
+TBD - Kubecon & CloudnativeCon North America, Salt Lake City
+TBD - BHACK, Belo Horizonte
+
+DEZEMBRO
+01-06 - AWS re:Invent, Las Vegas
+08-10 - Gartner Identity & Access Management Summit, Grapevine
+TBD - H2HC, São Paulo
+
+
 
 
 <!--LINK DAS BADGES:START-->
