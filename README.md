@@ -13,9 +13,8 @@
 
 <!-- ANO2025:START -->
 
-### Janeiro
-
 <!-- JANEIRO:START -->
+ <img width="50px" src="https://media.licdn.com/dms/image/v2/D5612AQEMTmdASEpqog/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680103178404?e=1741824000&v=beta&t=Rj5GOORqzHcQmGMnk4Gps3nrhiR7--N7_gPjv0j2jUw" align="center" alt="GitHub Readme Stats" />
 
 ## Janeiro
 
