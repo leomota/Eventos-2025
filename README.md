@@ -1,27 +1,13 @@
-# 📗 Guia de Estudo para o exame Fundamentos do Microsoft Azure (AZ-900)
-
-Este guia tem como objetivo fornecer uma lista de materiais pré-selecionados para ajudar qualquer pessoa que esteja começando uma carreira em computação em nuvem e/ou descobrindo o Azure a se preparar para (e passar) no exame AZ-900.
-
-*Última atualização em 7 de abril de 2023*
+# 📗 Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar?
 
 <p class="header" align="center">
- <img width="150px" src="https://raw.githubusercontent.com/Abacatinhos/agenda-tech-brasil/main/assets/abacatinhos.svg" align="center" alt="GitHub Readme Stats" />
- <h1 align="center">Eventos Tech Brasil</h1> 
+ <img src="https://media.licdn.com/dms/image/v2/D4D22AQHwoBq8zHX8fA/feedshare-shrink_800/B4DZRA8.AOGUAg-/0/1736256513258?e=1739404800&v=beta&t=kZ5_sGbRSxgac1MuPcTLd8ur7uEPyIDu_qFrWDMNFRA" align="center" alt="GitHub Readme Stats" />
 </p>
 
-_Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontrar? Ou tem que ficar acessando N locais diferentes, buscando por eventos? Sabemos que isso é um problema, e o objetivo desse repositório é resolver isso, reunindo em um só lugar, datas e informações sobre eventos relacionados à tecnologia que acontecem no Brasil! [Quer receber uma newsletter semanal com os eventos desse repo? Se inscreva aqui](https://www.linkedin.com/newsletters/agenda-tech-7235284852013494272/)._
-
-### A Agenda Tech foi criada por [@pachicodes](https://www.linkedin.com/in/pachicodes/) e é mantida por ela em colacoração com [@stephan-lopes](https://github.com/stephan-lopes)
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
 <a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a></p>
-
-## Contribuindo
-
-**Não encontrou o evento, palestra ou iniciativa que estava procurando?**
-
-Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se você conhece algum evento que acredita ser relevante para estar aqui, convidamos você a adicioná-lo. Está interessado(a) em nos ajudar nisso? [Clique aqui para aprender como incluir novos eventos e ajudar o repositório a crescer!](https://github.com/Abacatinhos/agenda-tech-brasil/blob/master/CONTRIBUTING.md)
 
 ## Eventos em 2025
 
