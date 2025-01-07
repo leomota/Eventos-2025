@@ -25,13 +25,16 @@
 | Confraria Web3  | 07 | Sao Paulo - SP   | Presencial | https://www.meetup.com/confrariaweb3/events/304681266
 
 - 07: [Confraria Web3 - São Paulo](https://www.meetup.com/confrariaweb3/events/304681266) - _São Paulo/SP_ ![presencial]
+- 21: [Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310) ![online]
+- 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online]  ![CTF]
+<!-- JANEIRO:END -->
 
 
 ## Fevereiro
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo | Tipo do Evento | CTF |
 |----------------|---------------|-------|-------------|-------------|-------------|
-| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética | ![presencial] | ![ok] | 
+| [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética | ![presencial] <img alt="Static Badge" src="https://img.shields.io/badge/CTF-GREEN?style=social"> | ![ok] | 
 | [Hack In Cariri](https://hackincariri.com.br) | 15/02/2025 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF |
 | Security Bytes Fortaleza | 19/02/2025 | Fortaleza, CE | Evento focado em Networking/Happy Hour |
 | [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher |
@@ -39,8 +42,11 @@
 
 <!--LINK DAS BADGES:START-->
 
-[presencial]: https://img.shields.io/static/v1?label=&message=presencial&color=blue
+[presencial]: https://img.shields.io/static/v1?label=&message=PRESENCIAL&color=blue
 [híbrido]: https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=red
-[online]: https://img.shields.io/static/v1?label=&message=online&color=purple
+[online]: https://img.shields.io/static/v1?label=&message=ON%20LINE&color=gree
 [ok]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SuzXSFVNznH767mLh4-6Jr9o8d8mSBIXtw&s
+[CTF-OK]: [https://img.shields.io/badge/CTF-GREEN](https://img.shields.io/badge/CTF-GREEN?style=plastic)
+[CTF]: https://img.shields.io/badge/CTF-GREEN?style=social
+[COE]: https://img.shields.io/badge/CTF-GREEN?style=social
 <!--LINK DAS BADGES:END-->
