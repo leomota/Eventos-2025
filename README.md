@@ -14,20 +14,19 @@
 <!-- ANO2025:START -->
 
 <!-- JANEIRO:START -->
- <img width="50px" src="https://media.licdn.com/dms/image/v2/D5612AQEMTmdASEpqog/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680103178404?e=1741824000&v=beta&t=Rj5GOORqzHcQmGMnk4Gps3nrhiR7--N7_gPjv0j2jUw" align="center" alt="GitHub Readme Stats" />
+ <img width="50px" src="https://i.ibb.co/bbWdtKP/1680103178404-removebg-preview.png" align="center" />
 
 ## Janeiro
 
-| Nome do Evento | Data do Evento | Local | Tipo de Evento | Link do Evento |
-|----------------|---------------|---------------|-------------|-------------|
+| Nome do Evento | Data do Evento | Local | Tipo de Evento
+|----------------|---------------|---------------|------------
 | -             | -             | -     | -           |
 | Confraria Web3  | 07 | Sao Paulo - SP   | Presencial | https://www.meetup.com/confrariaweb3/events/304681266
 
 - 07: [Confraria Web3 - São Paulo](https://www.meetup.com/confrariaweb3/events/304681266) - _São Paulo/SP_ ![presencial]
 - 21: [Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310) ![online]
-- 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online]  ![CTF]
+- 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online] <img width="50px" src="https://i.ibb.co/bbWdtKP/1680103178404-removebg-preview.png" align="right" />
 <!-- JANEIRO:END -->
-
 
 ## Fevereiro
 
@@ -36,7 +35,7 @@
 | [Digital Investigation Conference Brazil 2025](https://www.sympla.com.br/evento/digital-investigation-conference-brazil-2025/2666948) | 14/02/2025 | Porto Alegre, RS | Painéis e palestras que exploram os desafios e inovações na investigação cibernética | ![presencial] <img alt="Static Badge" src="https://img.shields.io/badge/CTF-GREEN?style=social"> | ![ok] | 
 | [Hack In Cariri](https://hackincariri.com.br) | 15/02/2025 | Juazeiro do Norte - CE | Evento da comunidade que contém CTF |
 | Security Bytes Fortaleza | 19/02/2025 | Fortaleza, CE | Evento focado em Networking/Happy Hour |
-| [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher |
+| [FortalSec](https://www.fortalsec.com.br) | 22/02/2025 | Fortaleza - CE | A Preencher | <img width="30px" src="https://i.ibb.co/bbWdtKP/1680103178404-removebg-preview.png" align="right" /> ![presencial]|
 | [RISE Finland 2025](https://www.team-cymru.com/rise-finland) | 10/02/2025 a 12/02/2025 | Helsinki, Finlândia | From sim swapping to ransomware OPSEC investigations and state-sponsored hacking workshops, RISE delves into the most cutting-edge topics in cybersecurity. |
 
 <!--LINK DAS BADGES:START-->
@@ -46,6 +45,6 @@
 [online]: https://img.shields.io/static/v1?label=&message=ON%20LINE&color=gree
 [ok]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SuzXSFVNznH767mLh4-6Jr9o8d8mSBIXtw&s
 [CTF-OK]: [https://img.shields.io/badge/CTF-GREEN](https://img.shields.io/badge/CTF-GREEN?style=plastic)
-[CTF]: https://img.shields.io/badge/CTF-GREEN?style=social
+[CTF]: <img width="50px" src="https://i.ibb.co/bbWdtKP/1680103178404-removebg-preview.png" align="center" />
 [COE]: https://img.shields.io/badge/CTF-GREEN?style=social
 <!--LINK DAS BADGES:END-->
